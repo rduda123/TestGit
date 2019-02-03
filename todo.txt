@@ -1,0 +1,91 @@
+
+keynote zostaje
+
+case - taki pracowy pamiêtnik :)
+  firma jako glowny?
+  migracja - problemy jako linki do issue
+  nowe rozwi¹zania scs
+  programy
+  !!! zwrotny link do case w notatkch issue
+
+
+
+rozwiazania
+  podzia³ na zagadnienia
+    podobnie jak w poprzednim KB tylko bardziej rozdzielone, mam budowaæ z klocków rozwiazania eng. Blocks
+    zapytania sql
+    vbs
+    vba
+    .net
+    scs
+    sql serwer
+    windows 
+    XSLT
+    informacje dla ww
+
+problemy
+   
+
+
+info
+  dane firmy - czy tagowc  labelem firmy? raczej nie
+    - sta³a strukura z template - kontakty, polaczenie info, link do folderu
+  konta 
+  has³a 
+  info
+
+templates dla notatek
+  kontakty
+  polaczenia
+    
+
+tagi
+  kopiowa z zbudowanej struktury w excel
+
+templates2
+  dokumenty
+  autodpowiedi
+  
+
+noe wyzwania
+  angielski
+  RPA
+    
+
+
+labele zamienic na tgi w excel
+  firmy - lista
+  czynnosci
+    - rozwiazywanie problemów 
+    - rozwi¹zanie
+  zagadnienia
+    - scs
+    - sql
+
+
+inne 
+  zdefiniowaæ style dla wpisów
+  przygotowaæ template - ró¿nego rodzaju nie da sie robic drzewek wiec grupa w nazwie i sortowanie zostaje
+  podzia³ na bazy: info (dane info: firmm has³a itp,) rozwi¹zania tego jeszcze nie wiem, maksymalnie 3 bazy do pracy
+  rozpoznac foldery programu KB, np osobne uruchomienie dla hobby
+  
+  przyk³ad motoractive
+  
+  ustawic backup
+  export do sieci?? nie dziala :(
+  dodatkowa katygoryzacja zapsiów, na zasadzi hashtag + plus lita hashtags, przyklad  DEV: C#
+  rozdzielic calkowivie prywatne od sluzbowych??
+  nowa baza dla mojego hobby
+  
+  dobry notatnik dla developera
+  przenosic powoli ale dobrze
+  kolorowanie kodu
+  procedura exportu notatek
+  przygotowac dobre narzedzie do tagowania w excel
+  podzial istniejacych na maniejsze kawalki
+  
+  
+   
+   
+  
+  
